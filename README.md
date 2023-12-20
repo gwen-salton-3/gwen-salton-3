@@ -12,8 +12,8 @@ Hello, this is Gwen Salton. Nothing but an engineer who is curious about
 
 My native language is not English, so please pardon my bad English.
 
-Everything is recorded in [Jupyter](https://jupyter.org/) and [Overleaf](https://www.overleaf.com/). [Trello](https://trello.com/) is for project management.
+Everything is recorded in [Jupyter](https://jupyter.org/) and [Overleaf](https://www.overleaf.com/). [Trello](https://trello.com/) is for project management. When I get board, [Hacker News](https://news.ycombinator.com/) is where I will hang over...
 
 **The projects** I am working on:
 
-1. [Python3 Tutorial](https://youtu.be/PAJUybDJCnA?si=aAVfvwmL1vgGmuOm): from 2023-12-20 to 2023-12-23
+1. [Python3](https://github.com/gwen-salton-3/Python3-Learning): For solidifying my foundational knowledge of programmatic expression of my mind.  
